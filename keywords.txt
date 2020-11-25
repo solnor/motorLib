@@ -1,0 +1,8 @@
+Motor	KEYWORD 1
+setSpeed	KEYWORD 2
+updateCounter	KEYWORD 2
+getAngle	KEYWORD 2
+getRadians	KEYWORD 2
+powerOff	KEYWORD 2
+powerOn	KEYWORD 2
+setDutyCycle	KEYWORD 2
