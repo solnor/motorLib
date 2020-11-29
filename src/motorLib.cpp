@@ -11,6 +11,7 @@ Motor::Motor(int phase, int enable, int signal1, int signal2)
   _signal2 = signal2;
   
   pinMode(_enablePin, OUTPUT);
+  setSpeed(0);
   powerOn();
 }
 
